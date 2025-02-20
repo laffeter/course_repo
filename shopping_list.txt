@@ -2,3 +2,4 @@
 3-bacon
 4-chicken
 5-meat
+6-pig
