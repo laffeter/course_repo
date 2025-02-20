@@ -1,4 +1,4 @@
 new line
 entering new text via github
 will check in terminal
-Greetings from my computer
+Greetings from my computer and from Github
