@@ -9,4 +9,4 @@ new lesson
 yes 
 ok 
 no
-
+editing last sentence locally
